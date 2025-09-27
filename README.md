@@ -24,7 +24,7 @@ Evaluation included ROC/AUC analysis and confusion matrix visualization.
 
 # 🚀 Getting Started
 1. Clone the repo
-git clone https://github.com/sathyas27/exoplanet-detection.git
+git clone https://github.com/sathyas27/Exoplanet_Detection.git
 cd exoplanet-detection
 
 2. Set up environment
