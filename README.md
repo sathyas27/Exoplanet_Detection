@@ -20,8 +20,6 @@ Random Forest provided the best trade-off between interpretability and predictiv
 
 Evaluation included ROC/AUC analysis and confusion matrix visualization.
 
-(Insert example plots here, e.g., confusion matrix image, ROC curve figure)
-
 # 🚀 Getting Started
 1. Clone the repo
 git clone https://github.com/sathyas27/Exoplanet_Detection.git
