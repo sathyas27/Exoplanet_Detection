@@ -16,7 +16,7 @@ Reproducibility: modular pipeline design with clear steps for ingestion, trainin
 
 Models achieved high accuracy in distinguishing exoplanet vs non-exoplanet signals.
 
-Random Forest provided the best trade-off between interpretability and predictive power.
+KNN provided the best trade-off between interpretability and predictive power.
 
 Evaluation included ROC/AUC analysis and confusion matrix visualization.
 
@@ -46,9 +46,7 @@ Astrophysical dataset from NASA Kepler mission
 
 # 📌 Future Improvements
 
-Containerize with Docker for portable deployment.
-
-Add CI/CD workflows (GitHub Actions + pytest) to automate retraining and testing.
+GitHub Actions + pytest to automate retraining and testing.
 
 Explore deep learning models (e.g., CNNs for raw light curve classification).
 
